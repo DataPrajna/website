@@ -14,9 +14,9 @@ weight = 0
   title = "Interests"
   interests = [
     "Convolutional neural network",
-    "Computer vision",
-    "Video analytics",
-    "Information Retrieval"
+    "Data Science",
+    "Machine Learning",
+    "Energy data analytics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,23 +24,30 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "PhD in Pattern analysis and machine intelligence"
-  institution = "University of Waterloo"
-  year = 2010
+  course = "PhD in Electrical and Computer Engineering"
+  institution = "University of Waterloo, Canada"
+  year = 2013
 
 [[education.courses]]
-  course = "M.Tech in automation and computer vision"
-  institution = "Indian Institute of Technology, Kharagpur, India"
-  year = 2004
+  course = "M.E.Sc in Electrical and Computer Engineering"
+  institution = "University of Western Ontario, Canada"
+  year = 2008
 
 [[education.courses]]
-  course = "B.E in Electrical Engineering"
-  institution = "University College of Engineering, Burla, India"
-  year = 2002
+  course = "B.Tech in Electrical Engineering"
+  institution = "National Institute of Technology Rourkela, India"
+  year = 2005
  
 +++
 
 # Biography
-Akshaya Mishra is a Principal Research Scientist at Miovision Technologies Inc. and an Assistant Adjunct Professor at the Department of Systems Design Engineering, University of Waterloo, Waterloo, Canada.  He received his M.Tech from Indian Institute of Technology, Kharagpur India and Ph.D. degree from the University of Waterloo, Canada, all with honours.   His research interests include machine learning, video analytics and surveillance, image processing, and 2D/3D segmentation. He has published 50 international conference and journal papers and he has four patents pending in machine learning and video analytics research areas. His publication record can be found at the following address:
-
+Prajna Paramita Dash
+(S’08) received the B.Sc. de-
+gree in electrical engineering from the National Insti-
+tute of Technology, Rourkela, Rourkela, India.
+She joined the University of Western Ontario,
+London, ON, Canada, in 2007, where she is currently
+pursuing the M.E.Sc. degree. Her research interests
+include distributed generation, renewable energy,
+and power systems
 
