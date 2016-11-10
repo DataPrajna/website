@@ -1,6 +1,6 @@
-baseurl = "https://akshayamishra.github.io/"
+baseurl = "https://DataPrajna.github.io/"
 title = "Adavanced Data Analytics"
-copyright = "&copy; 2016 Akshaya Mishra"
+copyright = "&copy; 2016 PrajnaParamita"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true

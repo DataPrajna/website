@@ -1,6 +1,6 @@
 +++
 date = "2016-04-20T10:00:00"
-draft = true
+draft = false
 tags = []
 title = "Writing content with Markdown, LaTeX, and Shortcodes"
 math = true

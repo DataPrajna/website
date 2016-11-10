@@ -41,13 +41,6 @@ weight = 0
 +++
 
 # Biography
-Prajna Paramita Dash
-(S’08) received the B.Sc. de-
-gree in electrical engineering from the National Insti-
-tute of Technology, Rourkela, Rourkela, India.
-She joined the University of Western Ontario,
-London, ON, Canada, in 2007, where she is currently
-pursuing the M.E.Sc. degree. Her research interests
-include distributed generation, renewable energy,
-and power systems
-
+Prajna Dash is a data science researcher, and she is actively involved in developing predcitive model for data from different industries. She had worked as data modeling engineer at Energent, 
+a utility data anaytic company through NSERC (National Science and Engineering Research Council) fellowship after receiving her PhD from the University of Waterloo in the Year 2013. Her PhD 
+research was developing a mathematical model for interfacing renewable energy sources to the grid. Through this research, she had publsihed many articales in reputed journals and conferences. She had worked as a data based developer in IBM Global Service, India prior to joing grdauate studies. 
