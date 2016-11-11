@@ -53,8 +53,12 @@ I know you are super excited to test your data to get a model, but before that h
    - Linear Regression: 
    ![my_image](/project/figure_1.png)
    
-   - Linear Regression with hidden layers   
+   - Linear Regression with 4 hidden layers   
    ![my_image_1](/project/figure_1_deep.png)
+   
+   - A high order polynomial fit with 4 hidden layers
+   
+   ![my_image](/project/figure_1_deep_poly.png)
  
 
 
