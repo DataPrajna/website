@@ -39,6 +39,10 @@ I know you are super excited to test your data to get a model, but before that h
 2. [Python for intermediates](https://leanpub.com/python201):  If you want to dig more
 
 3. [Functional programming in python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf): if you want to dig even more
+
+4. [TensorFlow](http://jorditorres.org/first-contact-with-tensorflow/): A versatile deep learning package in python 
+
+
  
  
  
