@@ -20,7 +20,7 @@ this class and can input data to this class and get a fitted  model for the data
 I know you are super excited to test your data to get a model, but before that how about you get stuffs ready to have a smooth model creation process. Things You need are:
 
 - Basic knowledge on Statistics
-- Coding  experience in scripting language like python, r 
+- Coding  experience in scripting language like Python, R (here I used Python)
 - Object oriented programming
 
 
