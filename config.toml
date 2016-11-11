@@ -18,7 +18,7 @@ googleAnalytics = ""
   organization = "University of Waterloo"
   avatar = "portrait.jpg"
   email = "Prajna.p.dash@gmail.com"
-  address = "University of Waterloo, ON, Canada"
+  address = "University of Waterloo, 200 University Avenue West, ON, Canada"
 
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -64,10 +64,10 @@ googleAnalytics = ""
     icon_pack = "fa"
     link = "mailto:prajna.p.dash@gmail.com"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
+  #[[params.social]]
+  #  icon = "twitter"
+  #   icon_pack = "fa"
+  #  link = ""
 
   [[params.social]]
     icon = "google-scholar"
