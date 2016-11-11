@@ -49,8 +49,12 @@ I know you are super excited to test your data to get a model, but before that h
    Code goes here
  
 ## Results:
-
+    
+   - Linear Regression: 
    ![my_image](/project/figure_1.png)
+   
+   - Linear Regression with hidden layers   
+   ![my_image_1](/project/figure_1_deep.png)
  
 
 
